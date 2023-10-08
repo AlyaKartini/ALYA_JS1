@@ -54,7 +54,7 @@ let Urutan_Antrian = 8
 do {
     Urutan_Antrian ++
     console.log("Urutan antrian ke-" + Urutan_Antrian);
-} while (Urutan_Antrian = 1)
+} while (Urutan_Antrian <= 9)
 
 // Example of using "Function"
 function sum(a, b) {
